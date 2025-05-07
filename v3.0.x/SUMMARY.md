@@ -1,27 +1,4 @@
-# Table of contents
-
-## Allgemeines
-
-* [Einführung](README.md)
-* [Allgemein](allgemein/README.md)
-  * [Installation](allgemein/installation.md)
-  * [Changelog](allgemein/changelog.md)
-  * [Erster Start](allgemein/erster-start.md)
-  * [Beitragsmodelle](allgemein/beitragsmodelle.md)
-  * [Familientarife](allgemein/familientarife.md)
-  * [Aller Anfang](allgemein/aller-anfang.md)
-  * [Abhängigkeiten](allgemein/abhangigkeiten.md)
-  * [Anleitung Jameica Portable](allgemein/anleitung-jameica-portable.md)
-  * [Automatisches Backup](allgemein/automatisches-backup.md)
-  * [MySQL-Support](allgemein/mysql-support.md)
-  * [Datenbank öffnen](allgemein/datenbank-offnen.md)
-  * [OpenOfficeDB](allgemein/openofficedb.md)
-  * [LibreOfficeDB](allgemein/libreofficedb.md)
-  * [Multiuser](allgemein/multiuser.md)
-
-***
-
-* [Programmfunktionen](allgemeine-funktionen/README.md)
+# [Programmfunktionen](allgemeine-funktionen/README.md)
   * [Navigation](allgemeine-funktionen/navigation.md)
   * [Mitglieder](allgemeine-funktionen/mitglieder/README.md)
     * [Mitglieder](allgemeine-funktionen/mitglieder/content/README.md)
@@ -122,23 +99,3 @@
       * [QIF Datei-Import](allgemeine-funktionen/administration/erweitert/qif-import.md)
       * [Datenbank bereinigen](allgemeine-funktionen/administration/erweitert/bereinigen.md)
       * [Diagnosebackup](allgemeine-funktionen/administration/erweitert/diagnosebackup.md)
-
-## Sonstiges
-
-* [Allgemein](sonstiges/README.md)
-  * [Buchführung Zusammenhänge](sonstiges/buchfuhrung-zusammenhange.md)
-  * [Buchführung Grundsätze](sonstiges/buchfuhrung-grundsatze.md)
-  * [Dokumente](sonstiges/dokumente.md)
-  * [FAQ](sonstiges/faq.md)
-  * [Für Entwickler](sonstiges/fur-entwickler.md)
-  * [Variable](sonstiges/variable.md)
-* [Lizenzen](sonstiges/lizenzen/README.md)
-  * [Apache License 2.0](sonstiges/lizenzen/apache-license-20.md)
-  * [Eclipse Public License 1.0](sonstiges/lizenzen/eclipse-public-license-10.md)
-  * [ez-card-Lizenz](sonstiges/lizenzen/ez-card-lizenz.md)
-  * [Gnu Lesser General Public License](sonstiges/lizenzen/gnu-lesser-public-license.md)
-  * [GPL V2](sonstiges/lizenzen/gpl-v2.md)
-  * [GPL V3](sonstiges/lizenzen/gpl-v3.md)
-  * [Java-Mail License](sonstiges/lizenzen/java-mail-license.md)
-  * [LGPL](sonstiges/lizenzen/lgpl.md)
-  * [Mozilla Public License](sonstiges/lizenzen/mozilla-public-license.md)
