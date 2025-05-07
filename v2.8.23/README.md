@@ -1,7 +1,4 @@
-# Navigation
+# Programmfunktionen Version 2.8.23
 
-Das Navigationsmenü kann je nach aktivierten Programmfunktionen mehr oder weniger Einträge enthalten. Beispielsweise können Lehrgänge oder Arbeitseinsätze ausgeschaltet werden. In diesem Fall stehen die zugehörigen Programmfunktionen nicht zur Verfügung.
+In diesem Kapitel werden alle Menüpunkte von JVerein beschrieben.
 
-Beispiel für die Navigation:
-
-![](../v3.0.x/img/Navigation1.png) ![](../v3.0.x/img/Navigation2.png) ![](<../v3.0.x/img/Navigation3 (1).png>)

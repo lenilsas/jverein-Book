@@ -18,7 +18,6 @@ Die im System gespeicherten Buchungen können nach folgenden Kriterien selektier
 Mit einem Doppelklick auf eine Buchung wird die Detailansicht zur Bearbeitung geöffnet. Mit einem rechten Mausklick öffnet sich ein Kontextmenü. Damit können Buchungen bearbeitet werden und bestehende Buchungen gelöscht werden. Der Export der Daten ins PDF oder CSV Format wird durch einen Klick auf PDF/CSV angestoßen.
 
 Folgende Buttons sind vorhanden:
-
 * Import: Import von Buchungen aus einer CSV Datei. Siehe [Buchungsimport](buchungsimport.md)
 * CSV: Die über die Suchkriterien ausgewählten Buchungen können mit einem Klick auf CSV als CSV-Datei ausgegeben werden. Dabei werden bei Nutzung des Mitgliedskontos ggfls. auch die Daten des Mitgliedes ausgegeben.
 * PDF Buchungsjournal: Auflistung aller Buchungen nach verschiedenen Sortierungen
@@ -30,7 +29,6 @@ Folgende Buttons sind vorhanden:
 Die PDF-Auswertungen sind hier abrufbar. Ausführlich beschrieben werden sie im Artikel [Buchführung Zusammenhänge](../../sonstiges/buchfuhrung-zusammenhange.md).
 
 Folgende Menü Einträge sind vorhanden:
-
 * Bearbeiten: Öffnet die Detailansicht für die selektierte Buchung
 * Duplizieren: Öffnet die Detailansicht für eine neue Buchung mit den Daten der selektierten Buchung
 * Gegenbuchung: Öffnet die Detailansicht für eine neue Buchung um eine Gegenbuchung zur selektierten Buchung zu erstellen Der Menüpunkt ist nur verfügbar wenn die Buchungsart der selektierten Buchung der Art "Umbuchung" ist. In der Gegenbuchung ist der negative Betrag der selektierten Buchung eingetragen. Nach Auswahl der Aktion wird erst ein Dialog zur Auswahl des Gegenkontos geöffnet. Dieser Dialog wird übersprungen wenn in der Konfiguration eines Kontos die Buchungsart der selektierten Buchung konfiguriert ist. In diesem Fall wird sofort das entsprechende Konto eingetragen. Siehe [Konten](konten.md).
@@ -65,6 +63,7 @@ Nach der Suche wird ein Dialog angezeigt, der die Zuordnungen dem Nutzer präsen
 
 ## Buchung
 
-![](<img/BuchungDialog (1).png>)
+![](img/BuchungDialog.png)
 
 Siehe auch [Sollbuchungen](../mitglieder/mitgliedskonto.md), [Splittbuchungen](splittbuchungen.md)
+
