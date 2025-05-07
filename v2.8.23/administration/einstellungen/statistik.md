@@ -1,6 +1,6 @@
 # Statistik
 
-![](img/Statistik.png)
+![](<../../../v3.0.x/administration/einstellungen/img/Statistik (1).png>)
 
 Für statistische Zwecke können Altersgruppen angegeben werden. Erfassen Sie die Gruppen wie im folgendem Beispiel
 
@@ -14,4 +14,4 @@ Ab Version 2.5 gibt es das Feld Mindestalter f. Mitgliedschaftsjubiläum
 
 Geben Sie hier eine Zahl ein, dann werden Mitgliedsjahre, die vor diesem Alter liegen beim Errechnen eines Mitglieds-Jubiläums nicht mit gerechnet.
 
-Für weitere technische Details siehe: [Für Entwickler](../../../sonstiges/fur-entwickler.md)
+Für weitere technische Details siehe: [Für Entwickler](broken-reference)

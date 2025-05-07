@@ -1,15 +1,14 @@
-# Buchungsklasse
-
+# Buchungsklassen
 
 ## Allgemeines
 
-Die Buchungsklassen dienen dazu die einzelnen Buchungsarten entsprechend den steuerlichen Vorgaben zu gruppieren. Siehe auch [Buchführung Zusammenhänge.](../../../sonstiges/buchfuhrung-zusammenhange.md)
+Die Buchungsklassen dienen dazu die einzelnen Buchungsarten entsprechend den steuerlichen Vorgaben zu gruppieren. Siehe auch [Buchführung Zusammenhänge.](broken-reference)
 
 ## Liste der Buchungsklassen
 
 Eine Liste der Buchungsklassen kann über den Eintrag Buchungsklassen im Navigationsbaum angezeigt werden.
 
-![](img/BuchungsklassenListeView.png)
+![](<../../../v3.0.x/administration/admbuchf/img/BuchungsklassenListeView (1).png>)
 
 Über den Neu Button können neue Buchungsklassen erzeugt werden.
 
@@ -19,5 +18,4 @@ Eine Liste der Buchungsklassen kann über den Eintrag Buchungsklassen im Navigat
 
 Bei der Erstellung einer neuen Buchungsklasse erscheint folgende Anzeige.
 
-![](img/Buchungsklasse.png)
-
+![](<../../../v3.0.x/administration/admbuchf/img/Buchungsklasse (1).png>)
