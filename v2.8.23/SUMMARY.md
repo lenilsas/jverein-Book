@@ -1,6 +1,3 @@
-## Versionen
-
-* [Version 2.8.23](README.md)
   * [Navigation](navigation.md)
   * [Mitglieder](mitglieder/README.md)
     * [Mitglieder](mitglieder/content/README.md)
