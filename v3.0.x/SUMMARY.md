@@ -1,6 +1,6 @@
 # Programfunktionen
-* [Changes] (notes.md)
-* [Navigation](navigation.md)
+* [Changes](notes.md)
+* [Navigation](README.md)
 * [Mitglieder](mitglieder/README.md)
   * [Mitglieder](mitglieder/content/README.md)
     * [Mitgliederliste](mitglieder/content/mitglieder.md)

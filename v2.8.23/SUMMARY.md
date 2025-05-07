@@ -1,5 +1,5 @@
 # Programfunktionen
-* [Navigation](navigation.md)
+* [Navigation](README.md)
 * [Mitglieder](mitglieder/README.md)
   * [Mitglieder](mitglieder/content/README.md)
     * [Mitgliederliste](mitglieder/content/mitglieder.md)
