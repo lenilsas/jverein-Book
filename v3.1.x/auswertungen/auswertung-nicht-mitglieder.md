@@ -1,2 +1,0 @@
-# Auswertung Nicht-Mitglieder
-

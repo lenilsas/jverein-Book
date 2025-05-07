@@ -1,3 +1,0 @@
-# Mitgliederliste
-
-Mitgliederliste

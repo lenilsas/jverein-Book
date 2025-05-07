@@ -1,2 +1,0 @@
-# Splittbuchungen
-

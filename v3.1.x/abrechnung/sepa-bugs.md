@@ -1,2 +1,0 @@
-# SEPA-Bugs
-
